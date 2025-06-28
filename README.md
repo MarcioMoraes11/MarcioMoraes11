@@ -10,9 +10,3 @@
 - 🌱 I’m currently learning **HTML, CSS, React, React Native, Node, Figma**
 
 - 📫 How to reach me **marciovini112005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
